@@ -1,0 +1,8 @@
+{
+  "name": "auto-orient-images",
+  "author": "Pedro Borges <oi@pedroborg.es>",
+  "version": "1.0.0",
+  "description": "Kirby Auto-Orient Images",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
